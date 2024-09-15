@@ -1,0 +1,7 @@
+Always extend a class when it has only "IS A RELATIONSHIP" with the parent class
+In that case , make it as static and call the function with Classname . function()
+
+If anyone shouldnt extend that class make it as final class and if anyone doesnt want to change the method by calling/extending the class , create a private empty constructor in that class
+
+Use private access modifier for the variable if none should extend that in child class
+Use protected access modifier for the variable only if Child class can do the changes of it

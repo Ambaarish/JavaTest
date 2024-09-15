@@ -1,0 +1,210 @@
+DSA roadmap
+
+1. Basic Array and String Problems
+Two Sum
+Introduction to basic array problems.
+
+Contains Duplicate
+Learn about set operations and basic hash table usage.
+
+Find Minimum in Rotated Sorted Array
+Introduction to binary search on rotated arrays.
+
+Search in Rotated Sorted Array
+Advanced binary search application.
+
+Product of Array Except Self
+Understanding prefix and suffix product arrays.
+
+Rotate Array
+Basic array rotation techniques.
+
+Best Time to Buy and Sell Stock
+Introduce simple stock market problems and dynamic programming.
+
+Best Time to Buy and Sell Stock II
+Introduce multiple transactions scenario.
+
+Find First and Last Position of Element in Sorted Array
+Binary search application to find range.
+
+Maximum Product Subarray
+Introduce dynamic programming with product arrays.
+
+Maximum Subarray
+Classic dynamic programming problem (Kadane’s algorithm).
+
+Subarray Sum Equals K
+Hash table approach to sum subarrays.
+
+Maximum Average Subarray I
+Sliding window approach to average calculation.
+
+Minimum Size Subarray Sum
+Sliding window approach to find minimal subarray.
+
+Length of Last Word
+Basic string manipulation.
+
+Reverse Words in a String - later
+String reversal and token manipulation.
+
+2. Intermediate Array and String Problems
+Permutation in String
+Sliding window approach for substring permutations.
+
+Longest Substring Without Repeating Characters
+Sliding window approach for uniqueness.
+
+Isomorphic Strings
+Mapping and string transformation.
+
+Valid Parentheses
+Stack-based approach for balanced parentheses.
+
+Longest Palindromic Substring
+Expand around center technique.
+
+Valid Palindrome - later
+String validation approach.
+
+Valid Palindrome II - later
+Validation with one deletion.
+
+String to Integer (atoi)
+Basic string parsing.
+
+Roman to Integer
+Conversion with specific rules.
+
+Integer to Roman
+Conversion using specific values.
+
+Longest Common Prefix
+Prefix matching approach.
+
+Find the Index of the First Occurrence in a String
+Substring search.
+
+Sort Characters By Frequency
+Frequency counting and sorting.
+
+Existence of a Substring in a String and Its Reverse
+Substring search in both original and reversed strings.
+
+Maximum Number of Occurrences of a Substring
+Count and track substrings.
+
+Maximum Length Substring With Two Occurrences
+Substring counting and length evaluation.
+
+3. Linked Lists and Related Problems
+Merge Two Sorted Lists
+Basic linked list merging.
+
+Add Two Numbers
+Linked list addition.
+
+Remove K Digits
+Digit manipulation and removal from a number.
+
+Gas Station
+Circular linked list approach.
+
+Climbing Stairs
+Dynamic programming with simple state transition.
+
+Jump Game
+Greedy algorithm for array-based jumps.
+
+Jump Game II
+Greedy algorithm with minimum jumps.
+
+Insert Delete GetRandom O(1)
+Data structure design for random access.
+
+Design Authentication Manager
+Implementing authentication logic with expiration.
+
+Find Peak Element
+Peak finding with binary search.
+
+4. Advanced Array and String Problems
+Subarray Product Less Than K
+Advanced sliding window technique for product.
+
+Find Peak Element
+Binary search based approach for peak finding.
+
+Two Sum II - Input Array Is Sorted
+Two-pointer technique for sorted arrays.
+
+Kth Largest Element in an Array
+Heap-based or partition-based approach.
+
+Unique Number of Occurrences
+Counting occurrences and uniqueness validation.
+
+Minimum Deletions to Make Character Frequencies Unique
+Frequency counting and adjustments.
+
+Number of Substrings Containing All Three Characters
+Sliding window approach for multiple characters.
+
+Shortest String That Contains Three Strings - later
+String concatenation and covering.
+
+Finding Pairs With a Certain Sum - later
+Using hash tables or two-pointer technique.
+
+Maximum Number of K-Sum Pairs
+Two-pointer technique for finding pairs.
+
+Find the Winner of an Array Game
+Simulating the array game and winner determination.
+
+Range Sum of BST
+BST range queries.
+
+Longest Common Subsequence
+Dynamic programming for subsequence matching.
+
+Is Subsequence
+Subsequence validation using two pointers.
+
+Fizz Buzz
+Classic problem with modulus operations.
+
+H-Index
+Research citation indexing.
+
+Trapping Rain Water
+Array-based trapping problem using two pointers or stack.
+
+Candy
+Greedy algorithm for distributing candies.
+
+5. Additional Problems and Variants
+Design Authentication Manager
+Object-oriented design for session management.
+
+Climbing Stairs
+Dynamic programming for counting ways.
+
+Integer to Roman
+Conversion based on value-to-symbol mapping.
+
+Roman to Integer
+Conversion with specific subtraction rules.
+
+Recyclable and Low Fat Products
+Assuming a specific problem related to product classification.
+
+Palindrome Number
+Check numeric palindrome.
+
+Final Notes
+Start with the Basic Array and String Problems to build a strong foundation.
+Move on to Intermediate Problems to tackle more complex scenarios and edge cases.
+Study Linked Lists and Related Problems for a change of pace and to build skills in data structure manipulation.
+Finish with Advanced Problems and Additional Variants to challenge yourself and apply concepts in novel ways.
